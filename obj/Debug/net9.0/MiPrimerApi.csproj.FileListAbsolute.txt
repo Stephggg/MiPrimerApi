@@ -1,0 +1,64 @@
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\appsettings.json
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.staticwebassets.endpoints.json
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.exe
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.deps.json
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.runtimeconfig.json
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.dll
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.pdb
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Esthep\MiPrimerApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.csproj.AssemblyReference.cache
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.AssemblyInfoInputs.cache
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.AssemblyInfo.cs
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.csproj.CoreCompileInputs.cache
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\scopedcss\bundle\MiPrimerApi.styles.css
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimer.22191C7E.Up2Date
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.dll
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\refint\MiPrimerApi.dll
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.pdb
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.genruntimeconfig.cache
+C:\Users\Esthep\MiPrimerApi\obj\Debug\net9.0\ref\MiPrimerApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\appsettings.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.staticwebassets.endpoints.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.exe
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.deps.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.runtimeconfig.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\MiPrimerApi.pdb
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.csproj.AssemblyReference.cache
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.AssemblyInfoInputs.cache
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.AssemblyInfo.cs
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.csproj.CoreCompileInputs.cache
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\scopedcss\bundle\MiPrimerApi.styles.css
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimer.22191C7E.Up2Date
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\refint\MiPrimerApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.pdb
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.genruntimeconfig.cache
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\ref\MiPrimerApi.dll
