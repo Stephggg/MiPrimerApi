@@ -62,3 +62,4 @@ C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\refint\MiPr
 C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.pdb
 C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.genruntimeconfig.cache
 C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\ref\MiPrimerApi.dll
+C:\Users\Esthep\Documents\Servicios Web\MiPrimerApi\obj\Debug\net9.0\MiPrimerApi.sourcelink.json
